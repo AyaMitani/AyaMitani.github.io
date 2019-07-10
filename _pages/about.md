@@ -10,3 +10,5 @@ redirect_from:
 
 
 I completed my PhD in Biostatistics at Boston University under the guidance of Professor Kerrie Nelson. 
+
+Contact me at amitani at bu dot edu.
