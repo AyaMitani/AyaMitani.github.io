@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! 
-=======================
 
 I completed my PhD in Biostatistics at Boston University under the guidance of Professor Kerrie Nelson. 
