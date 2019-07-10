@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aya Mitani"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Aya Mitani"
 description              : &description "personal description"
