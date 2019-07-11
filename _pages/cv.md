@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click here to view my CV.
+[Click here to view my CV.](http://academicpages.github.io/files/Aya_CV_July2019.pdf)
