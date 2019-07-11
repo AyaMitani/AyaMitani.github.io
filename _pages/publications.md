@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. *Biometrics*. 2019; 1– 12. [PDF](http://ayamitani.github.io/files/Biometrics_2019.pdf)
+- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. *Biometrics*. 2019; 1– 12. <[PDF](http://ayamitani.github.io/files/Biometrics_2019.pdf)>
 
-- **Mitani AA**, Nelson KP. Modeling Agreement between Binary Classifications of Multiple Raters in R and SAS. *Journal of Modern Applied Statistical Methods*. 2017; 15. [PDF](http://ayamitani.github.io/files/JMASM_2017.pdf)
+- **Mitani AA**, Nelson KP. Modeling Agreement between Binary Classifications of Multiple Raters in R and SAS. *Journal of Modern Applied Statistical Methods*. 2017; 15. <![PDF](http://ayamitani.github.io/files/JMASM_2017.pdf)>
 
 - **Mitani AA**, Freer PE, Nelson KP. Summary measures of agreement and association between many raters’ ordinal classifications. *Annals of Epidemiology*. 2017; 27(10). [PDF](http://ayamitani.github.io/files/AnnalsEpi_2017.pdf)
 
