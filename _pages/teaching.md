@@ -14,7 +14,7 @@ Seminars
 Awards from the NIH”. Biostatistics Student Association Seminar, Boston University,
 Boston, MA. Oct. 2017. [Slides]()
 - Mitani, A. “Issues and guidelines of multiple imputation in practice”. Webinar training
-series, ASA Section for Statistical Programmers and Analysts. Apr. 2013. [Slids]()
+series, ASA Section for Statistical Programmers and Analysts. Apr. 2013. [Slides]()
 - Mitani, A. “Multiple imputation in practice – approaches for handling categorical and
 interaction variables”. QSU Research Methods Seminar, Stanford University, Palo Alto,
 CA. May 2013. [Slides]()
