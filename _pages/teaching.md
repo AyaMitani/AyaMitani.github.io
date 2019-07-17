@@ -12,7 +12,7 @@ Seminars
 
 - Peloso, G and Mitani, A. “Applying for Individual (pre- and post-doctoral) Fellowship
 Awards from the NIH”. Biostatistics Student Association Seminar, Boston University,
-Boston, MA. Oct. 2017. [Slides]()
+Boston, MA. Oct. 2017. [Slides](http://ayamitani.github.io/files/F31slides.pdf)
 - Mitani, A. “Issues and guidelines of multiple imputation in practice”. Webinar training
 series, ASA Section for Statistical Programmers and Analysts. Apr. 2013. [Slides](http://ayamitani.github.io/files/mitani_qsuseminar_v2.pdf)
 - Mitani, A. “Multiple imputation in practice – approaches for handling categorical and
