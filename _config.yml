@@ -84,7 +84,7 @@ author:
   avatar           : "for_gitweb.jpg"
   bio              : "Postdoctoral Research Fellow"
   location         : "Boston, MA, USA"
-  employer         : Harvard T. H. Chan School of Public Health
+  employer         : #Harvard T. H. Chan School of Public Health
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=aya+mitani"
   googlescholar    : "https://scholar.google.com/citations?user=cOahA4EAAAAJ&hl=en&oi=ao"
   email            :
