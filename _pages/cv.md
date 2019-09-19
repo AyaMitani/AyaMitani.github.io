@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV.](http://ayamitani.github.io/files/Aya_CV_Sep2019.pdf)
+[Click here to view my CV.](http://ayamitani.github.io/files/CV_20190919.pdf)
