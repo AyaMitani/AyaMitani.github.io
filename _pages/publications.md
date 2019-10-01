@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Selected publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+### Selected peer-reviewed journal articles
 
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. *Biometrics*. 2019; 1– 12. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13050)
 
@@ -14,6 +15,14 @@ author_profile: true
 
 - **Mitani AA**, Kurian AW, Das AK, Desai M. Navigating choices when applying multiple imputation in the presence of multi-level
 categorical interaction effects. *Statistical Methodology*. 2015; 27. [PDF](http://ayamitani.github.io/files/StatMeth_2014.pdf)
+
+### Papers under review
+
+- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. 
+
+- **Mitani AA**, Kaye EK, Nelson KP. Modeling tooth-loss using inverse probability censoring weights in longitudinal clustered data with informative cluster size. 
+
+
 
 
 Click [here](https://www.ncbi.nlm.nih.gov/pubmed/?term=aya+mitani) to view the complete list of my publications.
