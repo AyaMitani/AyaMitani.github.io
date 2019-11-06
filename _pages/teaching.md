@@ -10,7 +10,6 @@ I co-instructed Introduction to Statistical Computing ([BS723](https://www.bu.ed
 Seminars
 ========
 
-- Test
 - Mitani, A. “Informative cluster size in observational studies”. HIV Working Group, Harvard Chan School, Boston, MA. Nov. 2019. [Slides](http://ayamitani.github.io/files/HSPH_HIVWG_Nov2019.pdf)
 - Peloso, G and Mitani, A. “Applying for Individual (pre- and post-doctoral) Fellowship
 Awards from the NIH”. Biostatistics Student Association Seminar, Boston University,
