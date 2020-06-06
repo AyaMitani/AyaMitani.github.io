@@ -7,7 +7,7 @@ author_profile: true
 
 ### Selected Peer-Reviewed Publications
 
-- **Mitani AA**, Haneuse S. Small data challenges of studying rare diseases. Invited Commentary. To appear in *JAMA Network Open*. 2020.
+- **Mitani AA**, Haneuse S. Small data challenges of studying rare diseases. Invited Commentary. *JAMA Network Open*. 2020; 3(3). [Link to paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763223)
 
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in *Biometrics*. 2020. [R package](https://github.com/AyaMitani/modelkappa) & [R code](https://github.com/AyaMitani/multoutcomeICS)
 
