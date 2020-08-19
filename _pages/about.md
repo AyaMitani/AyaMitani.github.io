@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Division of Biostatistics](https://www.dlsph.utoronto.ca/division/biostatistics/) at [University of Toronto Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/).
+I am an Assistant Professor in the [Division of Biostatistics](https://www.dlsph.utoronto.ca/division/biostatistics/) at [University of Toronto Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/).
 
-In June 2019, I completed my PhD in [Biostatistics](https://www.bu.edu/sph/about/departments/biostatistics/) at Boston University under the advisement of [Professor Kerrie Nelson](https://www.bu.edu/sph/profile/kerrie-nelson/). Following my PhD, I did my postdoctoral research fellowship with [Professor Sebastien Haneuse](https://www.hsph.harvard.edu/sebastien-haneuse/) in the [Department of Biostatisitcs](https://www.hsph.harvard.edu/biostatistics/) at Harvard T. H. Chan School of Public Health.
+In June 2019, I completed my PhD in [Biostatistics](https://www.bu.edu/sph/about/departments/biostatistics/) at Boston University under the advisement of [Professor Kerrie Nelson](https://www.bu.edu/sph/profile/kerrie-nelson/). Following my PhD, I did a postdoctoral research fellowship with [Professor Sebastien Haneuse](https://www.hsph.harvard.edu/sebastien-haneuse/) in the [Department of Biostatisitcs](https://www.hsph.harvard.edu/biostatistics/) at Harvard T. H. Chan School of Public Health.
 
 So far, my research has focused on methods for correlated data, informative cluster size, missing data and methods for assessing agreement. I have collaborated with researchers from various disciplines including oncology, nephrology, anesthesiology, and dental medicine. 
 
