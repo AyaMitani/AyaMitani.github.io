@@ -28,6 +28,7 @@ categorical interaction effects. *Statistical Methodology*. 2015; 27. [PDF](http
 
 - **Mitani AA**, Kaye EK, Nelson KP. Modeling tooth-loss using inverse probability censoring weights in longitudinal clustered data with informative cluster size. 
 
+- **Mitani AA**, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing a misclassified sampling strata.
 
 
 
