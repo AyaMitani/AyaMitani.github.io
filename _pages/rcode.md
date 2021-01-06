@@ -8,4 +8,4 @@ redirect_from:
   - /rcode.html
 ---
 
-I put together this page to refer back to some useful R code I've used in the past.
+I put together this page to refer back to some useful R codes I've used in the past. 
