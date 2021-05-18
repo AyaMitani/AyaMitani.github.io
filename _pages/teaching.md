@@ -1,11 +1,10 @@
 ---
 layout: archive
 permalink: /teaching/
+title: "Dalla Lana School of Public Health"
 author_profile: true
 ---
 
-Dalla Lana School of Public Health
-==================================
 - CHL5222 Analysis of Correlated Data (Winter 2021) 
 
 
