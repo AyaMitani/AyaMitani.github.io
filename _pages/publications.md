@@ -8,7 +8,7 @@ author_profile: true
 ## Informative cluster size and informative drop-out in complex correlated data
 
 - **Mitani AA**, Kaye EK, Nelson KP. Accounting for tooth-loss using inverse probability censoring weights in longitudinal clustered data with informative cluster size. Accepted to Annals of Applied Statistics. 
-- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in *Biometrics*. 2020. [R package](https://github.com/AyaMitani/modelkappa) & [R code](https://github.com/AyaMitani/multoutcomeICS)
+- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in *Biometrics*. 2021; 77, 271–282. [Link to paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13241) & [R code](https://github.com/AyaMitani/multoutcomeICS)
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. *Biometrics*. 2019; 73(3), 938– 949. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13050) & [R package](https://github.com/AyaMitani/CWGEE)
 
 ### Software
