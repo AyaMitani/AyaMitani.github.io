@@ -11,11 +11,11 @@ author_profile: true
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in *Biometrics*. 2021; 77, 271–282. [Link to paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13241) & [R code](https://github.com/AyaMitani/multoutcomeICS)
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. *Biometrics*. 2019; 73(3), 938– 949. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13050) & [R package](https://github.com/AyaMitani/CWGEE)
 
-#### Software
+&nbsp;&nbsp;&nbsp;**Software**
 - [CWGEE](https://github.com/AyaMitani/CWGEE): Cluster-weighted generalized estimating equations for clustered longitudinal data with informative cluster size
 - [ipccwGEE](https://github.com/AyaMitani/ipccwGEE): Solves the cluster-weighted generalized estimating equations with inverse probability censoring weights for correlated binary responses in clustered longitudinal data with informative cluster size and informative drop-out.
 
-#### Talks
+&nbsp;&nbsp;&nbsp;**Talks**
 - “Informative cluster size in observational studies”. HIV Working Group, Harvard Chan School, Nov. 2019. [Slides](http://ayamitani.github.io/files/HSPH_HIVWG_Nov2019.pdf)
 
 
@@ -35,7 +35,7 @@ author_profile: true
 - **Mitani AA**, Freer PE, Nelson KP. Summary measures of agreement and association between many raters’ ordinal classifications. *Annals of Epidemiology*. 2017; 27(10). [PDF](http://ayamitani.github.io/files/AnnalsEpi_2017.pdf) & [R package](https://github.com/AyaMitani/modelkappa)
 - Nelson KP, **Mitani AA**, Edwards D. Assessing the influence of rater and subject characteristics on measures of agreement for ordinal ratings. *Statistics in Medicine*. 2017; 36(20), 3181–3199. [Link to paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/bimj.201700078)
 
-#### Software
+&nbsp;&nbsp;&nbsp;**Software**
 - [modelkappa](https://github.com/AyaMitani/modelkappa): Calculates model-based kappa of agreement and association and their standard errors for multiple raters each assessing multiple cases
 
 
@@ -47,7 +47,7 @@ author_profile: true
 - **Mitani AA**, Kurian AW, Das AK, Desai M. Navigating choices when applying multiple imputation in the presence of multi-level
 categorical interaction effects. *Statistical Methodology*. 2015; 27. [PDF](http://ayamitani.github.io/files/StatMeth_2014.pdf)
 
-#### Talks
+&nbsp;&nbsp;&nbsp;**Talks**
 - “Multiple imputation in practice – approaches for handling categorical and
 interaction variables”. QSU Research Methods Seminar, Stanford University, May 2013. [Slides](http://ayamitani.github.io/files/mitani_qsuseminar_v2.pdf)
 - “Issues and guidelines of multiple imputation in practice”. Webinar training
