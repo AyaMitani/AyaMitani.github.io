@@ -23,7 +23,7 @@ author_profile: true
 
 ## Biased sampling design in survey and observational studies
 
-- **Mitani AA**, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing a misclassified sampling strata. *BMC Medical Research Methodology*. 2021; 21(145). [Link to paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01332-8) & [R code](https://github.com/ayamitani/MisclassSurvey)
+- **Mitani AA**, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing misclassified sampling strata. *BMC Medical Research Methodology*. 2021; 21(145). [Link to paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01332-8) & [R code](https://github.com/ayamitani/MisclassSurvey)
 
 
 
