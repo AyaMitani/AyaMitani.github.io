@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Student opportunities"
+    url: /opportunities/
+  
   - title: "R code"
     url: /rcode/
