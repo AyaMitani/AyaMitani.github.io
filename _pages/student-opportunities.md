@@ -32,3 +32,13 @@ If you are short on funding for travel, consider applying for one of the travel 
 ### Scholarships
 
 - [Gertrude M. Cox Scholarship](https://www.amstat.org/ASA/Your-Career/Awards/Gertrude-M-Cox-Scholarship.aspx): Deadline is February 23. Open to women PhD and Masters students who are citizens or permanent residents of US or Canada. Award amount is USD 1000.
+
+<!-- 
+### Conferences during academic year 2021-2022
+
+| Conference name and URL     | Date | Location | Student funding for travel | Abstract deadline | 
+| -------------------- | ----------- | ----------- | ----------- | ----------- | 
+| [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2022/index.cfm)      | 2022 June 7-10       | Pittsburgh, PA | [Yes](https://ww2.amstat.org/meetings/sdss/2022/awards.cfm) | 2021-12-15 for refereed abstracts, 2022-03-10 for lightning abstracts |
+
+--->
+
